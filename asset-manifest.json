@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-blended-01/static/css/main.c3d5249d.css",
+    "main.js": "/React-blended-01/static/js/main.02e2cea6.js",
+    "index.html": "/React-blended-01/index.html",
+    "main.c3d5249d.css.map": "/React-blended-01/static/css/main.c3d5249d.css.map",
+    "main.02e2cea6.js.map": "/React-blended-01/static/js/main.02e2cea6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3d5249d.css",
+    "static/js/main.02e2cea6.js"
+  ]
+}
