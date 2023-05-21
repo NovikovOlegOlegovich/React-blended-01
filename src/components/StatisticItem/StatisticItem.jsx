@@ -20,6 +20,6 @@ export const StatisticItem = ({ title, total, icon }) => {
 
 StatisticItem.propTypes = {
   title: PropTypes.string.isRequired,
-  total: PropTypes.string.isRequired,
+  total: PropTypes.number.isRequired,
   icon: PropTypes.object.isRequired,
 };
